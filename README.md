@@ -1,1 +1,2 @@
 # ExpressHelp_WebAPP
+这是高校校内快递代取小程序的服务端代码，采用RESTful写法，小程序前端通过AJAX请求后台的JSON数据，代码使用springboot框架编写
