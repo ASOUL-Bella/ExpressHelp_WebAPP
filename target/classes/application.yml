@@ -1,0 +1,23 @@
+spring:
+  mvc:
+    servlet:
+      load-on-startup: 1
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/graduation_design?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=UTF-8&serverTmezone=Asia/Shanghai
+    username: root
+    password: 123456
+
+logging:
+  level:
+    com.wcy: debug
+  file:
+    path: "D:/Desktop/test.log"
+
+mybatis:
+  mapper-locations: classpath:com.wcy.mapper/*.xml
+  type-aliases-package: com.wcy.domain
+
+server:
+  servlet:
+    context-path: /express_help
