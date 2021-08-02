@@ -15,7 +15,7 @@ logging:
     path: "D:/Desktop/test.log"
 
 mybatis:
-  mapper-locations: classpath:com.wcy.mapper/*.xml
+  mapper-locations: classpath:mapper/*.xml
   type-aliases-package: com.wcy.domain
 
 server:

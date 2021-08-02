@@ -9,7 +9,152 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d4e877-cee2-44e1-bc8b-e8af2dcf2520" name="默认变更列表" comment="1" />
+    <list default="true" id="e6d4e877-cee2-44e1-bc8b-e8af2dcf2520" name="默认变更列表" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcy/config/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcy/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcy/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/config/DruidConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/config/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/controller/OrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/domain/AjaxRes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/domain/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/domain/PageListRes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/com/wcy/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/classes/mybatis-generator/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/HikariCP-4.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/accessors-smart-2.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/android-json-0.0.20131108.vaadin1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/apiguardian-api-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/asm-9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/assertj-core-3.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/byte-buddy-1.10.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/byte-buddy-agent-1.10.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/classgraph-4.8.83.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/druid-1.1.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/hamcrest-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jackson-annotations-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jackson-core-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jackson-databind-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jackson-datatype-jdk8-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jackson-datatype-jsr310-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jackson-module-parameter-names-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jakarta.activation-api-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jakarta.xml.bind-api-2.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/json-path-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/json-smart-2.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jsonassert-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jsqlparser-4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/jul-to-slf4j-1.7.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/junit-jupiter-5.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/junit-jupiter-api-5.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/junit-jupiter-engine-5.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/junit-jupiter-params-5.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/junit-platform-commons-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/junit-platform-engine-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/log4j-1.2.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/log4j-api-2.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/log4j-to-slf4j-2.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/lombok-1.18.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mapper-base-1.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mapper-core-1.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mapper-extra-1.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mapper-spring-1.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mapper-spring-boot-autoconfigure-2.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mapper-spring-boot-starter-2.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mapper-weekend-1.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mapstruct-1.3.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mockito-core-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mockito-junit-jupiter-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/mysql-connector-java-8.0.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/objenesis-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/pagehelper-5.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/persistence-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/slf4j-api-1.7.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/snakeyaml-1.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-aop-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-beans-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-autoconfigure-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-devtools-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-starter-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-starter-jdbc-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-starter-json-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-starter-logging-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-starter-test-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-starter-thymeleaf-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-starter-tomcat-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-starter-web-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-test-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-boot-test-autoconfigure-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-context-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-core-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-expression-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-jcl-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-jdbc-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-plugin-core-2.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-plugin-metadata-2.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-test-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-tx-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-web-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/spring-webmvc-5.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-bean-validators-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-boot-starter-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-core-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-data-rest-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-oas-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-schema-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-spi-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-spring-web-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-spring-webflux-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-spring-webmvc-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-swagger-common-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-swagger-ui-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/springfox-swagger2-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/swagger-annotations-1.5.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/swagger-annotations-2.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/swagger-models-1.5.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/swagger-models-2.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/thymeleaf-3.0.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/thymeleaf-extras-java8time-3.0.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/thymeleaf-spring5-3.0.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/tomcat-embed-core-9.0.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/tomcat-embed-el-9.0.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/tomcat-embed-websocket-9.0.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GraduationDesign/WEB-INF/lib/xmlunit-core-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wcy/config/DruidConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wcy/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wcy/config/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-generator/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wcy/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wcy/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com.wcy.mapper/OrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com.wcy.mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-generator/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-generator/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com.wcy.mapper/OrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com.wcy.mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wcy/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wcy/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis-generator/generatorConfig.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +209,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -75,11 +221,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../高校校内快递代取系统" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/wcy/config" />
+    <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.6517755" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RebelAgentSelection">
@@ -90,6 +236,7 @@
       <recent name="com.wcy.service.impl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\GraduationDesign-Springboot\src\main\java\com\wcy\config" />
       <recent name="D:\IDEAWorkSpace\GraduationDesign\src\main\resources" />
       <recent name="D:\IDEAWorkSpace\GraduationDesign\src\main\java\com\wcy\mapper" />
       <recent name="D:\IDEAWorkSpace\GraduationDesign\src\main\resources\com.wcy.mapper" />
@@ -110,61 +257,28 @@
       <recent name="com.wcy.domain" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+      </set>
+    </option>
+  </component>
   <component name="RunManager" selected="Spring Boot.Application">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GraduationDesign" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceImplTest.createUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GraduationDesign" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wcy.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wcy.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.wcy.service.impl.UserServiceImplTest" />
-      <option name="METHOD_NAME" value="createUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceImpl.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GraduationDesign" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wcy.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wcy.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.wcy.service.impl.UserServiceImpl" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="GraduationDesign-springboot" />
       <extension name="coverage">
         <pattern>
@@ -302,9 +416,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserServiceImpl.Test" />
-      <item itemvalue="JUnit.Test.Test" />
-      <item itemvalue="JUnit.UserServiceImplTest.createUser" />
       <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Tomcat 服务器.Tomcat 9.0.46" />
     </list>
@@ -312,9 +423,6 @@
       <list>
         <item itemvalue="Spring Boot.Application" />
         <item itemvalue="Spring Boot.Application" />
-        <item itemvalue="JUnit.UserServiceImplTest.createUser" />
-        <item itemvalue="JUnit.Test.Test" />
-        <item itemvalue="JUnit.UserServiceImpl.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +448,13 @@
       <workItem from="1626835673536" duration="12357000" />
       <workItem from="1626917967278" duration="736000" />
       <workItem from="1626925364299" duration="177000" />
-      <workItem from="1626925560553" duration="1284000" />
+      <workItem from="1626925560553" duration="2005000" />
+      <workItem from="1626937652227" duration="1648000" />
+      <workItem from="1627110491606" duration="1336000" />
+      <workItem from="1627873419088" duration="2189000" />
+      <workItem from="1627875636120" duration="4822000" />
+      <workItem from="1627881413182" duration="981000" />
+      <workItem from="1627882662113" duration="3442000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1626925443372</created>
@@ -356,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626926605327</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1626926908216</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626926908216</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

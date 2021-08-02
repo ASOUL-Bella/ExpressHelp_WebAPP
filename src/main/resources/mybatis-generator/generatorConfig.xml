@@ -6,7 +6,7 @@
 <generatorConfiguration>
 
     <!--<properties resource="application.yml"/>-->
-    <properties resource="db.properties"/>
+    <properties resource="mybatis-generator/db.properties"/>
 
     <context id="mysql" defaultModelType="hierarchical"
              targetRuntime="MyBatis3Simple">
